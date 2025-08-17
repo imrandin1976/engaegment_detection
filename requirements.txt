@@ -8,3 +8,5 @@ Pillow==10.2.0
 
 # Optional but useful
 tqdm==4.66.1
+gspread 
+google-auth
